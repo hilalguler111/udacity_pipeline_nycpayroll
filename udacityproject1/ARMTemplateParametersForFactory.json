@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "udacityproject1"
+		},
+		"AzureSynapseAnalytics1_connectionString": {
+			"value": ""
+		},
+		"Is_sqldatabase_connectionString": {
+			"value": ""
+		},
+		"ls__accountKey": {
+			"value": ""
+		},
+		"ls__properties_typeProperties_url": {
+			"value": "https://udacityaccounthilal.dfs.core.windows.net/"
+		}
+	}
+}
